@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\Repos\S119_HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Lenovo\source\Repos\S119_HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Lenovo\source\Repos\S119_HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Lenovo\source\Repos\S119_HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\Repos\S119_HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\Repos\S119_HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+C:\Users\Lenovo\source\Repos\S119_HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\Lenovo\source\Repos\S119_HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\Repos\S119_HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\Repos\S119_HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Lenovo\source\Repos\S119_HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
